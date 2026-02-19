@@ -86,8 +86,8 @@
             </nav>
 
             <div class="flex-1 flex items-center justify-center p-6 sm:p-12 pt-24 lg:pt-12">
-                <div class="w-full max-w-md space-y-8">
-                    <div class="space-y-2">
+                <div class="w-full max-w-md space-y-1">
+                    <div class="space-y-1">
                         <h2 class="text-3xl font-bold tracking-tight">Hello New Members 👋</h2>
                         <p class="text-slate-400">Fill these inputs to register</p>
                     </div>

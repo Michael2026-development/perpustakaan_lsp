@@ -92,7 +92,7 @@
             <div class="flex-1 flex items-center justify-center p-8 sm:p-12">
                 <div class="w-full max-w-md space-y-8">
                     <div class="space-y-2">
-                        <h2 class="text-3xl font-bold tracking-tight">Welcome back</h2>
+                        <h2 class="text-3xl font-bold tracking-tight">Welcome back 👀</h2>
                         <p class="text-slate-500 dark:text-slate-400">Please enter your details to sign in.</p>
                     </div>
 
